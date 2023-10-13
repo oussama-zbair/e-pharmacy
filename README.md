@@ -22,7 +22,7 @@ Follow these steps to set up and run the project on your local environment:
 2. **Navigate to the project directory:**
 
     ```bash
-       cd e-pharmacy
+    cd e-pharmacy
     ```
 
 3. **Copy the .env.example file to .env:**
